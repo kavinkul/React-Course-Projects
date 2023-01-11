@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Conrad Yost",
+      "id": 30
+    },
+    {
+      "name": "Joy Cassin",
+      "id": 32
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Licensed Concrete Cheese",
+      "id": 24
+    },
+    {
+      "userId": 1,
+      "title": "Generic Cotton Salad",
+      "id": 25
+    },
+    {
+      "userId": 1,
+      "title": "Small Bronze Hat",
+      "id": 26
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=61477",
+      "id": 2
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=39865",
+      "id": 3
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3570",
+      "id": 5
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=28449",
+      "id": 6
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=67407",
+      "id": 7
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=18805",
+      "id": 8
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4683",
+      "id": 9
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=61593",
+      "id": 10
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6997",
+      "id": 11
+    }
+  ]
+}
